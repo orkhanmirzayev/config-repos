@@ -4,7 +4,7 @@ spring:
       ddl-auto: update
     show-sql: true
   datasource:
-    url: jdbc:mysql://localhost:3306/customer_service12
+    url: jdbc:mysql://localhost:3306/customer_service123
     username: root
     password: '{cipher}c969c209e41fad85082baa80d9e15259bd7d3c2ecd9a03630656f72b3da1d45e'
     driver-class-name: com.mysql.jdbc.Driver 
